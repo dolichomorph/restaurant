@@ -1,33 +1,3 @@
-.websiteFrame {
-     position: fixed;
-     z-index: 990;
-     background-color: rgba(198, 250, 229, 1);
- }
-
- #websiteFrameTop {
-     top: 0;
-     left: 0;
-     width: 100%;
-     height: 10px;
- }
-
- #websiteFrameRight {
-     top: 0;
-     bottom: 0;
-     right: 0;
-     width: 10px;
- }
-
- #websiteFrameBottom {
-     bottom: 0;
-     left: 0;
-     width: 100%;
-     height: 10px;
- }
-
- #websiteFrameLeft {
-     top: 0;
-     bottom: 0;
-     left: 0;
-     width: 10px;
- }
+body {
+  border: 5px blue;
+}
