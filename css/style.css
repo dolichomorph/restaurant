@@ -9,3 +9,28 @@ body {
 .alignright {
 	float: right;
 }
+
+#Bottom {
+   position : ;
+   bottom : -100px;
+   text-align: center;
+   text-decoration: underline
+ }
+
+h2{
+  font-family: 'Merienda',cursive;
+}
+
+.navigation{
+  font-family: 'Merienda',cursive;
+}
+
+.right{
+  text-align: right;
+}
+
+.image{
+  img style="width:90%;"
+  text-align:center;
+  img class="center-block"
+}
